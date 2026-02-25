@@ -1,10 +1,8 @@
 public class HelloWorld {
-    public static void main(string[] args) {
-        System.out.println("Hello, cloud batch1");
+    public static void main(String[] args) {
+        System.out.println("Hello, cloud batch!");
     }
-
 }
-
 
 
 
